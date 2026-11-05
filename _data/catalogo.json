@@ -42,5 +42,82 @@
       }
     }
   ],
-  "prodotti": []
+  "prodotti": [
+    {
+      "tipo": "digitale",
+      "id": "guida-maschere",
+      "nome": "Guida alle maschere per capelli fatte in casa",
+      "categoria": "maschere",
+      "prezzo_centesimi": 490,
+      "descrizione": "Guida digitale: maschere con ingredienti di cucina, dosi, tempi di posa, conservazione e cautele.",
+      "descrizione_completa": "Una guida pratica alle maschere per capelli da preparare in casa.\nPer ogni ricetta: ingredienti e dosi, passaggi, tempo di posa, quanto si conserva e quando evitarla.\nGuida in preparazione: l'acquisto vale come pre-ordine e riceverai il PDF appena pronto.\nÈ una guida digitale: non contiene né vende prodotti da applicare. Le ricette sono per uso personale.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Guide to homemade hair masks",
+          "descrizione": "Digital guide: masks made with kitchen ingredients, amounts, timings, storage and precautions.",
+          "descrizione_completa": "A practical guide to hair masks you can make at home.\nFor each recipe: ingredients and amounts, steps, leave-on time, how long it keeps and when to skip it.\nGuide in preparation: your purchase counts as a pre-order and you will receive the PDF as soon as it is ready.\nIt is a digital guide: it does not contain or sell any product to apply. The recipes are for personal use."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "guida-oli-pre-shampoo",
+      "nome": "Guida agli oli e ai pre-shampoo",
+      "categoria": "oli-pre-shampoo",
+      "prezzo_centesimi": 490,
+      "descrizione": "Guida digitale: come scegliere e usare gli oli prima dello shampoo, con tempi e cautele.",
+      "descrizione_completa": "Una guida pratica agli oli e ai pre-shampoo.\nCome applicarli, per quanto tempo, quando evitarli e come lavarli via.\nGuida in preparazione: l'acquisto vale come pre-ordine e riceverai il PDF appena pronto.\nÈ una guida digitale: non contiene né vende prodotti da applicare. Le ricette sono per uso personale.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Guide to oils and pre-shampoo treatments",
+          "descrizione": "Digital guide: how to choose and use oils before shampoo, with timings and precautions.",
+          "descrizione_completa": "A practical guide to oils and pre-shampoo treatments.\nHow to apply them, for how long, when to skip them and how to wash them out.\nGuide in preparation: your purchase counts as a pre-order and you will receive the PDF as soon as it is ready.\nIt is a digital guide: it does not contain or sell any product to apply. The recipes are for personal use."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "guida-risciacqui",
+      "nome": "Guida ai risciacqui per capelli fatti in casa",
+      "categoria": "risciacqui",
+      "prezzo_centesimi": 490,
+      "descrizione": "Guida digitale: risciacqui con due o tre ingredienti, conservazione e cosa aspettarsi davvero.",
+      "descrizione_completa": "Una guida pratica ai risciacqui da fare dopo lo shampoo.\nOgni ricetta indica dosi, tempi, conservazione e cosa aspettarsi davvero.\nGuida in preparazione: l'acquisto vale come pre-ordine e riceverai il PDF appena pronto.\nÈ una guida digitale: non contiene né vende prodotti da applicare. Le ricette sono per uso personale.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Guide to homemade hair rinses",
+          "descrizione": "Digital guide: rinses with two or three ingredients, storage and what to really expect.",
+          "descrizione_completa": "A practical guide to rinses to use after shampoo.\nEvery recipe lists amounts, timings, storage and what to really expect.\nGuide in preparation: your purchase counts as a pre-order and you will receive the PDF as soon as it is ready.\nIt is a digital guide: it does not contain or sell any product to apply. The recipes are for personal use."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "guida-gel-spray",
+      "nome": "Guida ai gel e agli spray senza risciacquo",
+      "categoria": "senza-risciacquo",
+      "prezzo_centesimi": 490,
+      "descrizione": "Guida digitale: gel e spray da lasciare sui capelli, con conservazione e cautele.",
+      "descrizione_completa": "Una guida pratica ai gel e agli spray senza risciacquo.\nPreparazione, uso, quantità giuste e conservazione in sicurezza.\nGuida in preparazione: l'acquisto vale come pre-ordine e riceverai il PDF appena pronto.\nÈ una guida digitale: non contiene né vende prodotti da applicare. Le ricette sono per uso personale.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Guide to leave-in gels and sprays",
+          "descrizione": "Digital guide: gels and sprays to leave in your hair, with storage and precautions.",
+          "descrizione_completa": "A practical guide to leave-in gels and sprays.\nPreparation, use, the right amounts and safe storage.\nGuide in preparation: your purchase counts as a pre-order and you will receive the PDF as soon as it is ready.\nIt is a digital guide: it does not contain or sell any product to apply. The recipes are for personal use."
+        }
+      }
+    }
+  ]
 }
