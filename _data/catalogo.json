@@ -81,7 +81,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Shampoo in panetto per l'uso frequente.",
       "descrizione_completa": "Bagna capelli e panetto, passa il panetto tra le mani o sui capelli, massaggia la cute e risciacqua.\nLascia asciugare il panetto tra un uso e l'altro.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/shampoo-solido-delicato.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -100,7 +100,7 @@
       "prezzo_centesimi": 900,
       "descrizione": "Shampoo in panetto per capelli che si ungono in fretta.",
       "descrizione_completa": "Bagna capelli e panetto, passa il panetto sulle radici e sulla cute, massaggia e risciacqua.\nLascia asciugare il panetto tra un uso e l'altro.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/shampoo-solido-purificante.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -119,7 +119,7 @@
       "prezzo_centesimi": 1000,
       "descrizione": "Balsamo in panetto per sciogliere i nodi dopo lo shampoo.",
       "descrizione_completa": "Dopo lo shampoo passa il panetto sulle lunghezze bagnate, dalle medie alle punte, poi sciacqua.\nLascia asciugare il panetto tra un uso e l'altro.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/balsamo-solido.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -138,7 +138,7 @@
       "prezzo_centesimi": 1600,
       "descrizione": "Maschera per lunghezze secche, da lasciare in posa e sciacquare.",
       "descrizione_completa": "Applica sui capelli umidi dalle medie alle punte, lascia in posa 15-20 minuti, poi sciacqua con acqua tiepida e fai lo shampoo.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/maschera-burro.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -157,7 +157,7 @@
       "prezzo_centesimi": 1400,
       "descrizione": "Olio per le lunghezze da applicare prima dello shampoo.",
       "descrizione_completa": "Scalda poche gocce tra le mani, applica da metà lunghezza alle punte, lascia in posa da 30 minuti a un'ora, poi fai lo shampoo sui capelli asciutti.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/olio-pre-shampoo.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -176,7 +176,7 @@
       "prezzo_centesimi": 1200,
       "descrizione": "Poche gocce sulle punte, anche sui capelli asciutti.",
       "descrizione_completa": "Una o due gocce sulle punte, su capelli umidi o asciutti. Con i capelli fini parti da meno.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/siero-punte.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -195,7 +195,7 @@
       "prezzo_centesimi": 1300,
       "descrizione": "Scrub delicato da usare sulla cute prima dello shampoo.",
       "descrizione_completa": "Una volta a settimana al massimo: massaggia delicatamente sulla cute bagnata, poi risciacqua e fai lo shampoo.\nNon usare su cute irritata o con ferite.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/scrub-cuoio-capelluto.webp",
       "icona": "",
       "visibile": true,
       "tr": {

@@ -2,9 +2,16 @@
  "template": "Fotografia di prodotto professionale e-commerce: {nome}, {aspetto}. Sfondo neutro chiaro sfumato, luce morbida da studio, alta definizione, nessun testo, nessuna scritta, nessun logo, nessuna persona",
  "default": "",
  "aspetti": {
-  "olio-pre-shampoo": "a small amber glass dropper bottle of hair oil on a light linen surface, soft natural light, minimalist and calm",
-  "siero-punte": "a small clear glass dropper bottle of hair serum with a pale golden liquid, on a neutral stone surface, soft light, minimalist",
-  "maschera-burro": "a small frosted glass jar of creamy off-white hair mask with a wooden spoon beside it, light neutral background, soft natural light",
-  "burro-ricci": "a small round tin of whipped hair butter, opened, creamy texture visible, on a light wooden surface, soft light, minimalist"
+  "olio-pre-shampoo": "a small amber glass dropper bottle of hair oil on a light linen surface, soft natural light, minimalist, no text",
+  "siero-punte": "a small clear glass dropper bottle of hair serum with a pale golden liquid, on a neutral stone surface, soft light, minimalist, no text",
+  "maschera-burro": "a small frosted glass jar of creamy off-white hair mask with a wooden spoon beside it, light neutral background, soft natural light, no text",
+  "burro-ricci": "a small round tin of whipped hair butter, opened, creamy texture visible, on a light wooden surface, soft light, minimalist, no text",
+  "shampoo-solido-delicato": "a round cream-coloured solid shampoo bar on a small wooden dish, light neutral background, soft natural light, minimalist, no text",
+  "shampoo-solido-purificante": "a round pale green solid shampoo bar on a small stone dish, light neutral background, soft natural light, minimalist, no text",
+  "balsamo-solido": "a rectangular beige solid conditioner bar on a light linen cloth, soft natural light, minimalist, no text",
+  "scrub-cuoio-capelluto": "a small glass jar of light grainy scalp scrub with a wooden spoon, on a pale stone surface, soft natural light, minimalist, no text",
+  "olio-massaggio-cuoio": "a small dark glass dropper bottle of massage oil next to a wooden comb, on a light linen surface, soft natural light, minimalist, no text",
+  "pomata-styling": "a small flat metal tin of hair styling balm, opened, matte texture visible, on a light grey surface, soft light, minimalist, no text",
+  "kit-scoperta": "a small kraft gift box open showing an amber dropper bottle, a clear dropper bottle and a frosted jar, light neutral background, soft natural light, no text"
  }
 }
