@@ -214,7 +214,7 @@
       "prezzo_centesimi": 1300,
       "descrizione": "Olio da massaggiare sulla cute prima del lavaggio.",
       "descrizione_completa": "Poche gocce sui polpastrelli, massaggia la cute per qualche minuto, lascia in posa e poi fai lo shampoo.\nEvita se la cute è grassa o irritata.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/olio-massaggio-cuoio.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -233,7 +233,7 @@
       "prezzo_centesimi": 1500,
       "descrizione": "Una piccola quantità per ammorbidire e definire i ricci.",
       "descrizione_completa": "Scalda una noce molto piccola tra le mani e distribuiscila su capelli ricci o ondulati. Troppo prodotto appesantisce.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/burro-ricci.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -252,7 +252,7 @@
       "prezzo_centesimi": 1100,
       "descrizione": "Pomata per dare forma e tenuta morbida.",
       "descrizione_completa": "Scalda una piccola quantità tra le mani e passala sui capelli asciutti per dare forma.\nSi lava con shampoo.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/pomata-styling.webp",
       "icona": "",
       "visibile": true,
       "tr": {
@@ -271,7 +271,7 @@
       "prezzo_centesimi": 3800,
       "descrizione": "Tre prodotti per le lunghezze, per iniziare.",
       "descrizione_completa": "Contiene olio pre-shampoo, siero per le punte e maschera nutriente al burro.\nUna routine semplice per le lunghezze secche, con le istruzioni di ogni prodotto.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
+      "immagine": "assets/images/prodotti/kit-scoperta.webp",
       "icona": "",
       "visibile": true,
       "tr": {
