@@ -3,42 +3,36 @@
     "id": "hero",
     "nome": "Hero",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Hair care made at home</p><h1 class=\"gc-h1\">Simple ingredients, precise instructions, <em>hair treated with care.</em></h1><p class=\"gc-lead\">Recipes for masks, oils and rinses to make in your kitchen, explained step by step: clear amounts, storage times and the precautions to know before you start. No miracle promises.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/blog/\">Read the recipes</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/en/shop/\">Guides in preparation</a></div></div><div class=\"ent-cycle\"><div><b>Pick a recipe</b><span>One at a time, based on what your hair needs</span></div><div><b>Patch test first</b><span>A small amount, wait 24 hours</span></div><div><b>Make a small batch</b><span>Fresh ingredients: use them right away</span></div><div><b>Store it or throw it away</b><span>Fridge and a few days, never long</span></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Hair care in small batches</p><h1 class=\"gc-h1\">Few ingredients, small batches, <em>hair cared for calmly.</em></h1><p class=\"gc-lead\">Hair oils, serums and masks made in small batches. Simple products, described honestly: what they are, how to use them and what they can do, with no miracle promises.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/en/shop/\">Discover the products</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/en/blog/\">Read the blog</a></div></div><div class=\"ent-cycle\"><div><b>Small batches</b><span>Limited quantities, made with care</span></div><div><b>Few ingredients</b><span>A clear list on the label</span></div><div><b>Simple to use</b><span>Instructions on every product</span></div><div><b>Honesty</b><span>No miracle promises</span></div></div></div></section></div>"
+  },
+  {
+    "id": "prodotti",
+    "nome": "Products",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"prodotti\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">The products</p><h2 class=\"gc-h2\">We start with four</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><b>Pre-shampoo oil</b><p>To apply on the lengths before washing.</p></div><div class=\"gc-pl ent-pl\"><b>Ends serum</b><p>A few drops on the ends, even on dry hair.</p></div><div class=\"gc-pl ent-pl\"><b>Nourishing butter mask</b><p>For dry lengths, left on and rinsed out.</p></div><div class=\"gc-pl ent-pl\"><b>Butter for curly hair</b><p>A small amount to soften and define.</p></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-link\" href=\"__BASEURL__/en/shop/\">Go to the shop</a></p></div></section></div>"
   },
   {
     "id": "principi",
     "nome": "Approach",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"principi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Our approach</p><h2 class=\"gc-h2\">Four rules that do not change</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>Few things, chosen well</b><p>Every recipe uses ingredients from your kitchen or the supermarket. If an ingredient is not needed, it is not there.</p></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>Small amounts, right away</b><p>Preparations made with water or fresh fruit spoil. The amounts are enough for one or two uses.</p></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>Safety first</b><p>Every recipe explains the patch test and how long it keeps. If your skin reacts, you stop.</p></div><div class=\"gc-pl ent-pl\"><span class=\"n\">04</span><b>No miracle promises</b><p>Making hair softer is realistic. Repairing it or making it grow back with kitchen ingredients is not.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">How we work</p><h2 class=\"gc-h2\">Four rules that do not change</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>Few ingredients</b><p>If an ingredient is not needed, it is not there. The list is on the label.</p></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>Small batches</b><p>We make a little at a time, so products stay fresh.</p></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>Test first</b><p>Every product should be tried first on a small patch of skin.</p></div><div class=\"gc-pl ent-pl\"><span class=\"n\">04</span><b>No miracles</b><p>Making hair softer is realistic. For the rest, we tell it as it is.</p></div></div></div></section></div>"
   },
   {
-    "id": "ricette",
-    "nome": "Recipes",
+    "id": "uso",
+    "nome": "How to use",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"ricette\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Where to start</p><h2 class=\"gc-h2\">Four preparations, four needs</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><b>Avocado and honey mask</b><p>For dry lengths. Ready in two minutes and used right away.</p></div><div class=\"gc-pl ent-pl\"><b>Coconut oil pre-shampoo</b><p>An oil before washing to protect the lengths.</p></div><div class=\"gc-pl ent-pl\"><b>Rice water rinse</b><p>A traditional rinse after shampoo, to use fresh.</p></div><div class=\"gc-pl ent-pl\"><b>Flaxseed gel</b><p>For damp hair to define waves and curls.</p></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-link\" href=\"__BASEURL__/en/blog/\">All recipes</a></p></div></section></div>"
-  },
-  {
-    "id": "metodo",
-    "nome": "How it is done",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"metodo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">How it is done</p><h2 class=\"gc-h2\">A good recipe in four steps</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>Work clean</b><p>Washed hands, bowls and tools: that is half of good storage.</p></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>Do the patch test</b><p>A small amount on your forearm, then wait 24 hours.</p></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>Make little</b><p>Better to make it again than to keep it for days.</p></div><div class=\"gc-pl ent-pl\"><span class=\"n\">04</span><b>Store or discard</b><p>In the fridge and for a few days. If the smell, colour or look changes, throw it away.</p></div></div></div></section></div>"
-  },
-  {
-    "id": "nota",
-    "nome": "Honest note",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"nota\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">An honest note</p><h2 class=\"gc-h2\">Recipes for personal use, not cosmetics for sale</h2><p class=\"gc-lead\">In the European Union a cosmetic sold to the public must comply with Regulation (EC) 1223/2009: a safety assessment, notification to the CPNP portal and proper labelling. That is why we do not sell finished cosmetics here: we explain how to make them for yourself.</p><p>We are not hairdressers or dermatologists. With sensitive skin, dermatitis or sudden hair loss, ask a professional before trying any recipe.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"uso\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">How to use them</p><h2 class=\"gc-h2\">Three simple habits</h2><div class=\"gc-plat\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>Do a patch test</b><p>A small amount on your forearm, then wait 24 hours.</p></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>Start small</b><p>Better to add than remove: fine hair weighs down quickly.</p></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>Listen to your hair</b><p>If your scalp gets irritated, stop. If in doubt, ask a professional.</p></div></div></div></section></div>"
   },
   {
     "id": "avvisi",
     "nome": "Blog",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"avvisi\"><div class=\"gc-wrap gc-2c\"><div><p class=\"gc-eyebrow\">From the blog</p><h2 class=\"gc-h2\">Recipes and things to know</h2><p class=\"gc-lead\">Every recipe lists ingredients, steps, storage and precautions.</p><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/en/blog/\">Go to the blog</a></div><div class=\"gc-pl ent-pl\"><span class=\"n\">READ FIRST</span><b>Before you start: patch test and storage</b><p>The two things that make every other recipe safer.</p></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"avvisi\"><div class=\"gc-wrap gc-2c\"><div><p class=\"gc-eyebrow\">From the blog</p><h2 class=\"gc-h2\">Care tips and behind the scenes</h2><p class=\"gc-lead\">How to use the products, how we choose ingredients, what to expect.</p><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/en/blog/\">Go to the blog</a></div><div class=\"gc-pl ent-pl\"><span class=\"n\">READ FIRST</span><b>The patch test: how to do it</b><p>Two minutes and a 24-hour wait before using a new product.</p></div></div></section></div>"
   },
   {
     "id": "contatti",
     "nome": "Contact",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"contatti\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contact</p><h2 class=\"gc-h2\">A recipe you would like to see?</h2><p class=\"gc-lead\">Tell us which one and what you want to achieve: we will look into it and, if it makes sense, write it.</p><a class=\"gc-btn\" href=\"__BASEURL__/en/contact/\">Write to us</a></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"contatti\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contact</p><h2 class=\"gc-h2\">A question about a product?</h2><p class=\"gc-lead\">Write to us: we will reply as soon as we can.</p><a class=\"gc-btn\" href=\"__BASEURL__/en/contact/\">Write to us</a></div></section></div>"
   }
 ]

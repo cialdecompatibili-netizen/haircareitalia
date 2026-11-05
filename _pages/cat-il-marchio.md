@@ -1,9 +1,9 @@
 ---
 layout: single
-ref: cat-sicurezza
-title: "Sicurezza"
-permalink: /blog/sicurezza/
-categoria: "Sicurezza"
+ref: cat-il-marchio
+title: "Il marchio"
+permalink: /blog/il-marchio/
+categoria: "Il marchio"
 author_profile: false
 classes: wide
 ---

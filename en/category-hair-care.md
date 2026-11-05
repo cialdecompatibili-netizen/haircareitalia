@@ -1,9 +1,9 @@
 ---
 layout: single
-ref: cat-ricette
-title: "Recipes"
-permalink: /en/blog/recipes/
-categoria: "Recipes"
+ref: cat-cura-dei-capelli
+title: "Hair care"
+permalink: /en/blog/hair-care/
+categoria: "Hair care"
 author_profile: false
 classes: wide
 lang: en

@@ -33,7 +33,7 @@ related_posts: 3
 # Il sito impagina con assets/js/paginazione.js (attributo data-per). Valori dell'admin: 10, 20, 50, 100, 200, 500.
 per_page: 20
 email: ""
-description: "Cosmetici per capelli fatti in casa: shampoo, maschere, oli e rimedi naturali"
+description: "Oli, sieri e maschere per capelli in piccoli lotti: pochi ingredienti, istruzioni chiare."
 
 # --- TEMA (Minimal Mistakes, caricato da remoto) ----------------------------------------
 # I COLORI veri del sito NON stanno qui ma in _data/tema.json (accento, menu, testo).
@@ -44,7 +44,7 @@ search: true
 author:
   name: "Redazione Haircare Italia"
   avatar: "/assets/images/autore-segnaposto.svg"
-  bio: "Ricette di cura dei capelli con ingredienti di cucina, scritte in modo chiaro e prudente. Non siamo parrucchieri né dermatologi."
+  bio: "Oli, sieri e maschere per capelli in piccoli lotti. Non siamo parrucchieri né dermatologi."
   links:
     - label: "Contatti"
       icon: "fas fa-fw fa-envelope"

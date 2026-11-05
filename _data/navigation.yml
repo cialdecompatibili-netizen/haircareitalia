@@ -10,7 +10,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Ricette"
+  - title: "Blog"
     url: /blog/
   - title: "Shop"
     url: /negozio/

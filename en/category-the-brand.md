@@ -1,9 +1,9 @@
 ---
 layout: single
-ref: cat-sicurezza
-title: "Safety"
-permalink: /en/blog/safety/
-categoria: "Safety"
+ref: cat-il-marchio
+title: "The brand"
+permalink: /en/blog/the-brand/
+categoria: "The brand"
 author_profile: false
 classes: wide
 lang: en
