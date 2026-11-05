@@ -72,5 +72,215 @@
       }
     }
   ],
-  "prodotti": []
+  "prodotti": [
+    {
+      "tipo": "fisico",
+      "id": "shampoo-solido-delicato",
+      "nome": "Shampoo solido delicato",
+      "categoria": "shampoo-solidi",
+      "prezzo_centesimi": 900,
+      "descrizione": "Shampoo in panetto per l'uso frequente.",
+      "descrizione_completa": "Bagna capelli e panetto, passa il panetto tra le mani o sui capelli, massaggia la cute e risciacqua.\nLascia asciugare il panetto tra un uso e l'altro.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Gentle solid shampoo",
+          "descrizione": "A shampoo bar for frequent use.",
+          "descrizione_completa": "Wet your hair and the bar, rub the bar between your hands or over your hair, massage the scalp and rinse.\nLet the bar dry between uses.\nIngredients on the label. Do a patch test first. Made in small batches."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "shampoo-solido-purificante",
+      "nome": "Shampoo solido purificante",
+      "categoria": "shampoo-solidi",
+      "prezzo_centesimi": 900,
+      "descrizione": "Shampoo in panetto per capelli che si ungono in fretta.",
+      "descrizione_completa": "Bagna capelli e panetto, passa il panetto sulle radici e sulla cute, massaggia e risciacqua.\nLascia asciugare il panetto tra un uso e l'altro.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Clarifying solid shampoo",
+          "descrizione": "A shampoo bar for hair that gets oily quickly.",
+          "descrizione_completa": "Wet your hair and the bar, rub the bar over the roots and scalp, massage and rinse.\nLet the bar dry between uses.\nIngredients on the label. Do a patch test first. Made in small batches."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "balsamo-solido",
+      "nome": "Balsamo solido districante",
+      "categoria": "balsami-solidi",
+      "prezzo_centesimi": 1000,
+      "descrizione": "Balsamo in panetto per sciogliere i nodi dopo lo shampoo.",
+      "descrizione_completa": "Dopo lo shampoo passa il panetto sulle lunghezze bagnate, dalle medie alle punte, poi sciacqua.\nLascia asciugare il panetto tra un uso e l'altro.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Detangling solid conditioner",
+          "descrizione": "A conditioner bar to ease tangles after shampoo.",
+          "descrizione_completa": "After shampoo, glide the bar over wet lengths, from mid-lengths to the ends, then rinse.\nLet the bar dry between uses.\nIngredients on the label. Do a patch test first. Made in small batches."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "maschera-burro",
+      "nome": "Maschera nutriente al burro",
+      "categoria": "maschere-e-burri",
+      "prezzo_centesimi": 1600,
+      "descrizione": "Maschera per lunghezze secche, da lasciare in posa e sciacquare.",
+      "descrizione_completa": "Applica sui capelli umidi dalle medie alle punte, lascia in posa 15-20 minuti, poi sciacqua con acqua tiepida e fai lo shampoo.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Nourishing butter mask",
+          "descrizione": "A mask for dry lengths, left on and rinsed out.",
+          "descrizione_completa": "Apply to damp hair from mid-lengths to the ends, leave on for 15-20 minutes, then rinse with lukewarm water and shampoo.\nIngredients on the label. Do a patch test first. Made in small batches."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "olio-pre-shampoo",
+      "nome": "Olio pre-shampoo",
+      "categoria": "oli-e-sieri",
+      "prezzo_centesimi": 1400,
+      "descrizione": "Olio per le lunghezze da applicare prima dello shampoo.",
+      "descrizione_completa": "Scalda poche gocce tra le mani, applica da metà lunghezza alle punte, lascia in posa da 30 minuti a un'ora, poi fai lo shampoo sui capelli asciutti.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Pre-shampoo oil",
+          "descrizione": "An oil for the lengths, to apply before shampoo.",
+          "descrizione_completa": "Warm a few drops between your hands, apply from mid-lengths to the ends, leave on for 30 minutes to an hour, then shampoo onto dry hair.\nIngredients on the label. Do a patch test first. Made in small batches."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "siero-punte",
+      "nome": "Siero per le punte",
+      "categoria": "oli-e-sieri",
+      "prezzo_centesimi": 1200,
+      "descrizione": "Poche gocce sulle punte, anche sui capelli asciutti.",
+      "descrizione_completa": "Una o due gocce sulle punte, su capelli umidi o asciutti. Con i capelli fini parti da meno.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Ends serum",
+          "descrizione": "A few drops on the ends, even on dry hair.",
+          "descrizione_completa": "One or two drops on the ends, on damp or dry hair. With fine hair start with less.\nIngredients on the label. Do a patch test first. Made in small batches."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "scrub-cuoio-capelluto",
+      "nome": "Scrub per il cuoio capelluto",
+      "categoria": "cuoio-capelluto",
+      "prezzo_centesimi": 1300,
+      "descrizione": "Scrub delicato da usare sulla cute prima dello shampoo.",
+      "descrizione_completa": "Una volta a settimana al massimo: massaggia delicatamente sulla cute bagnata, poi risciacqua e fai lo shampoo.\nNon usare su cute irritata o con ferite.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Scalp scrub",
+          "descrizione": "A gentle scrub to use on the scalp before shampoo.",
+          "descrizione_completa": "At most once a week: massage gently onto the wet scalp, then rinse and shampoo.\nDo not use on an irritated scalp or on wounds.\nIngredients on the label. Do a patch test first. Made in small batches."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "olio-massaggio-cuoio",
+      "nome": "Olio per massaggio del cuoio capelluto",
+      "categoria": "cuoio-capelluto",
+      "prezzo_centesimi": 1300,
+      "descrizione": "Olio da massaggiare sulla cute prima del lavaggio.",
+      "descrizione_completa": "Poche gocce sui polpastrelli, massaggia la cute per qualche minuto, lascia in posa e poi fai lo shampoo.\nEvita se la cute è grassa o irritata.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Scalp massage oil",
+          "descrizione": "An oil to massage onto the scalp before washing.",
+          "descrizione_completa": "A few drops on your fingertips, massage the scalp for a few minutes, leave on and then shampoo.\nSkip it if your scalp is oily or irritated.\nIngredients on the label. Do a patch test first. Made in small batches."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "burro-ricci",
+      "nome": "Burro per capelli ricci",
+      "categoria": "styling",
+      "prezzo_centesimi": 1500,
+      "descrizione": "Una piccola quantità per ammorbidire e definire i ricci.",
+      "descrizione_completa": "Scalda una noce molto piccola tra le mani e distribuiscila su capelli ricci o ondulati. Troppo prodotto appesantisce.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Butter for curly hair",
+          "descrizione": "A small amount to soften and define curls.",
+          "descrizione_completa": "Warm a very small amount between your hands and spread it on curly or wavy hair. Too much weighs hair down.\nIngredients on the label. Do a patch test first. Made in small batches."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pomata-styling",
+      "nome": "Pomata per capelli",
+      "categoria": "styling",
+      "prezzo_centesimi": 1100,
+      "descrizione": "Pomata per dare forma e tenuta morbida.",
+      "descrizione_completa": "Scalda una piccola quantità tra le mani e passala sui capelli asciutti per dare forma.\nSi lava con shampoo.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Hair balm",
+          "descrizione": "A balm for shape and soft hold.",
+          "descrizione_completa": "Warm a small amount between your hands and work it through dry hair to shape.\nWashes out with shampoo.\nIngredients on the label. Do a patch test first. Made in small batches."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "kit-scoperta",
+      "nome": "Kit scoperta: olio, siero e maschera",
+      "categoria": "kit-e-cofanetti",
+      "prezzo_centesimi": 3800,
+      "descrizione": "Tre prodotti per le lunghezze, per iniziare.",
+      "descrizione_completa": "Contiene olio pre-shampoo, siero per le punte e maschera nutriente al burro.\nUna routine semplice per le lunghezze secche, con le istruzioni di ogni prodotto.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
+      "immagine": "",
+      "icona": "",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Discovery kit: oil, serum and mask",
+          "descrizione": "Three products for the lengths, to get started.",
+          "descrizione_completa": "Contains pre-shampoo oil, ends serum and nourishing butter mask.\nA simple routine for dry lengths, with the instructions for each product.\nIngredients on the label. Do a patch test first. Made in small batches."
+        }
+      }
+    }
+  ]
 }
