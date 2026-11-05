@@ -1,0 +1,10 @@
+{
+ "template": "Fotografia di prodotto professionale e-commerce: {nome}, {aspetto}. Sfondo neutro chiaro sfumato, luce morbida da studio, alta definizione, nessun testo, nessuna scritta, nessun logo, nessuna persona",
+ "default": "",
+ "aspetti": {
+  "olio-pre-shampoo": "a small amber glass dropper bottle of hair oil on a light linen surface, soft natural light, minimalist and calm",
+  "siero-punte": "a small clear glass dropper bottle of hair serum with a pale golden liquid, on a neutral stone surface, soft light, minimalist",
+  "maschera-burro": "a small frosted glass jar of creamy off-white hair mask with a wooden spoon beside it, light neutral background, soft natural light",
+  "burro-ricci": "a small round tin of whipped hair butter, opened, creamy texture visible, on a light wooden surface, soft light, minimalist"
+ }
+}
