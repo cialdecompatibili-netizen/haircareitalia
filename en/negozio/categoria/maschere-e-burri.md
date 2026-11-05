@@ -3,7 +3,7 @@ layout: negozio-categoria
 title: "Masks and butters"
 cid: maschere-e-burri
 permalink: /en/shop/category/masks-butters/
-description: "Hair masks and butters made in small batches."
+description: "Masks and butters for dry lengths."
 lang: en
 locale: en
 ref: shop-cat-maschere-e-burri

@@ -2,12 +2,22 @@
   "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
-      "nome": "Oli e sieri",
-      "id": "oli-e-sieri",
-      "icona": "🫙",
+      "nome": "Shampoo solidi",
+      "id": "shampoo-solidi",
+      "icona": "🧼",
       "tr": {
         "en": {
-          "nome": "Oils and serums"
+          "nome": "Solid shampoos"
+        }
+      }
+    },
+    {
+      "nome": "Balsami solidi",
+      "id": "balsami-solidi",
+      "icona": "🧴",
+      "tr": {
+        "en": {
+          "nome": "Solid conditioners"
         }
       }
     },
@@ -20,84 +30,47 @@
           "nome": "Masks and butters"
         }
       }
-    }
-  ],
-  "prodotti": [
+    },
     {
-      "tipo": "fisico",
-      "id": "olio-pre-shampoo",
-      "nome": "Olio pre-shampoo",
-      "categoria": "oli-e-sieri",
-      "prezzo_centesimi": 1400,
-      "descrizione": "Olio per le lunghezze da applicare prima dello shampoo.",
-      "descrizione_completa": "Un olio da applicare sulle lunghezze prima del lavaggio, per proteggerle mentre lavi.\nScalda poche gocce tra le mani, applica da metà lunghezza alle punte, lascia in posa da 30 minuti a un'ora, poi fai lo shampoo sui capelli asciutti.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
-      "icona": "",
-      "visibile": true,
+      "nome": "Oli e sieri",
+      "id": "oli-e-sieri",
+      "icona": "🫙",
       "tr": {
         "en": {
-          "nome": "Pre-shampoo oil",
-          "descrizione": "An oil for the lengths, to apply before shampoo.",
-          "descrizione_completa": "An oil to apply on the lengths before washing, to protect them while you wash.\nWarm a few drops between your hands, apply from mid-lengths to the ends, leave on for 30 minutes to an hour, then shampoo onto dry hair.\nIngredients on the label. Do a patch test first. Made in small batches."
+          "nome": "Oils and serums"
         }
       }
     },
     {
-      "tipo": "fisico",
-      "id": "siero-punte",
-      "nome": "Siero per le punte",
-      "categoria": "oli-e-sieri",
-      "prezzo_centesimi": 1200,
-      "descrizione": "Poche gocce sulle punte, anche sui capelli asciutti.",
-      "descrizione_completa": "Un siero leggero da usare in piccole quantità sulle punte, su capelli umidi o asciutti.\nBastano una o due gocce: con i capelli fini parti da meno.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
-      "icona": "",
-      "visibile": true,
+      "nome": "Cuoio capelluto",
+      "id": "cuoio-capelluto",
+      "icona": "🌿",
       "tr": {
         "en": {
-          "nome": "Ends serum",
-          "descrizione": "A few drops on the ends, even on dry hair.",
-          "descrizione_completa": "A light serum to use in small amounts on the ends, on damp or dry hair.\nOne or two drops are enough: with fine hair start with less.\nIngredients on the label. Do a patch test first. Made in small batches."
+          "nome": "Scalp care"
         }
       }
     },
     {
-      "tipo": "fisico",
-      "id": "maschera-burro",
-      "nome": "Maschera nutriente al burro",
-      "categoria": "maschere-e-burri",
-      "prezzo_centesimi": 1600,
-      "descrizione": "Maschera per lunghezze secche, da lasciare in posa e sciacquare.",
-      "descrizione_completa": "Una maschera cremosa per lunghezze secche.\nApplica sui capelli umidi dalle medie alle punte, lascia in posa 15-20 minuti, poi sciacqua con acqua tiepida e fai lo shampoo.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
-      "icona": "",
-      "visibile": true,
+      "nome": "Styling e definizione",
+      "id": "styling",
+      "icona": "✨",
       "tr": {
         "en": {
-          "nome": "Nourishing butter mask",
-          "descrizione": "A mask for dry lengths, left on and rinsed out.",
-          "descrizione_completa": "A creamy mask for dry lengths.\nApply to damp hair from mid-lengths to the ends, leave on for 15-20 minutes, then rinse with lukewarm water and shampoo.\nIngredients on the label. Do a patch test first. Made in small batches."
+          "nome": "Styling and definition"
         }
       }
     },
     {
-      "tipo": "fisico",
-      "id": "burro-ricci",
-      "nome": "Burro per capelli ricci",
-      "categoria": "maschere-e-burri",
-      "prezzo_centesimi": 1500,
-      "descrizione": "Una piccola quantità per ammorbidire e definire i ricci.",
-      "descrizione_completa": "Un burro da scaldare tra le mani e distribuire in piccola quantità su capelli ricci o ondulati.\nParti da una noce molto piccola: troppo prodotto appesantisce.\nIngredienti in etichetta. Fai prima la prova sulla pelle. Prodotto preparato in piccoli lotti.",
-      "immagine": "",
-      "icona": "",
-      "visibile": true,
+      "nome": "Kit e cofanetti",
+      "id": "kit-e-cofanetti",
+      "icona": "🎁",
       "tr": {
         "en": {
-          "nome": "Butter for curly hair",
-          "descrizione": "A small amount to soften and define curls.",
-          "descrizione_completa": "A butter to warm between your hands and spread in a small amount on curly or wavy hair.\nStart with a very small amount: too much weighs hair down.\nIngredients on the label. Do a patch test first. Made in small batches."
+          "nome": "Kits and gift sets"
         }
       }
     }
-  ]
+  ],
+  "prodotti": []
 }
