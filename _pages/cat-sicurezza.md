@@ -1,9 +1,9 @@
 ---
 layout: single
-ref: cat-guide
-title: "Guide"
-permalink: /blog/guide/
-categoria: "Guide"
+ref: cat-sicurezza
+title: "Sicurezza"
+permalink: /blog/sicurezza/
+categoria: "Sicurezza"
 author_profile: false
 classes: wide
 ---

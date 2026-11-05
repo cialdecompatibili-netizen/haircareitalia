@@ -1,14 +1,10 @@
 [
   {
-    "nome": "blog",
-    "descrizione": "Novita', approfondimenti e dietro le quinte"
+    "nome": "Ricette",
+    "descrizione": "Maschere, oli, risciacqui e gel da preparare in casa."
   },
   {
-    "nome": "Guide",
-    "descrizione": "Istruzioni passo passo, spiegate semplici."
-  },
-  {
-    "nome": "Novità",
-    "descrizione": "Aggiornamenti e notizie dal sito."
+    "nome": "Sicurezza",
+    "descrizione": "Prova sulla pelle, conservazione e buon senso."
   }
 ]

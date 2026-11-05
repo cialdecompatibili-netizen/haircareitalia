@@ -1,9 +1,7 @@
 main:
   - title: "Home"
     url: /en/
-  - title: "Services"
-    url: /en/services/
-  - title: "Blog"
+  - title: "Recipes"
     url: /en/blog/
   - title: "Shop"
     url: /en/shop/

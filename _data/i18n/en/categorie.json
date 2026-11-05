@@ -1,14 +1,10 @@
 [
   {
-    "nome": "blog",
-    "descrizione": "News, insights and behind the scenes"
+    "nome": "Recipes",
+    "descrizione": "Masks, oils, rinses and gels to make at home."
   },
   {
-    "nome": "Guides",
-    "descrizione": "Step-by-step instructions, explained simply."
-  },
-  {
-    "nome": "News",
-    "descrizione": "Updates and news from the site."
+    "nome": "Safety",
+    "descrizione": "Patch tests, storage and common sense."
   }
 ]

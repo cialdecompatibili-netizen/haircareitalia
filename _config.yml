@@ -42,9 +42,9 @@ search: true
 
 # SEO globale
 author:
-  name: "Nome autore"
+  name: "Redazione Haircare Italia"
   avatar: "/assets/images/autore-segnaposto.svg"
-  bio: "Scrivi qui una breve presentazione dell'autore o del sito: chi sei, di cosa ti occupi e come contattarti."
+  bio: "Ricette di cura dei capelli con ingredienti di cucina, scritte in modo chiaro e prudente. Non siamo parrucchieri né dermatologi."
   links:
     - label: "Contatti"
       icon: "fas fa-fw fa-envelope"
